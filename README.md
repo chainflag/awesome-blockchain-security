@@ -21,15 +21,16 @@
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Paradigm CTF - 2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
  
-## Security references
+## Solidity Security References
 
+- [SWC Registry](https://swcregistry.io/)
 - [Decentralized Application Security Project](https://www.dasp.co/)
-- [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts)
 - [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 - [Blockchain Security Database](https://consensys.github.io/blockchainSecurityDB/)
+- [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts)
 
-## Vulnerabilities
+## Public Blockchain Vulnerabilities
 
 - [Go Ethereum Security Advisories](https://github.com/ethereum/go-ethereum/security/advisories)
 - [Bitcoin CVE wiki](https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures)
