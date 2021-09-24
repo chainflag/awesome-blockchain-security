@@ -27,7 +27,6 @@
 - [Decentralized Application Security Project](https://www.dasp.co/)
 - [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Blockchain Security Database](https://consensys.github.io/blockchainSecurityDB/)
 - [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts)
 
 ## Public Blockchain Vulnerabilities
@@ -41,6 +40,18 @@
 
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
 - [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents)
+
+## Audit reports
+
+- [Trail of Bits](https://github.com/trailofbits/publications)
+- [OpenZeppelin](https://blog.openzeppelin.com/security-audits/)
+- [Consensys Diligence](https://consensys.net/diligence/audits/)
+- [Blockchain Security Database](https://consensys.github.io/blockchainSecurityDB/)
+- [Quantstamp](https://certificate.quantstamp.com)
+- [Slowmist](https://github.com/slowmist/Knowledge-Base/tree/master/open-report)
+- [PeckShield](https://github.com/peckshield/publications/tree/master/audit_reports)
+- [Arcadia Group](https://arcadiamgroup.com/audits/audit.html)
+- [Mixbytes](https://github.com/mixbytes/audits_public/)
 
 ## Forums
 
