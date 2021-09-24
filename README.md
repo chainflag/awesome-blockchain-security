@@ -41,6 +41,15 @@
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
 - [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents)
 
+## Tools
+
+- [EthTx Transaction Decoder](https://ethtx.info/)
+- [Ethereum Virtual Machine Opcodes](https://www.ethervm.io/)
+- [Ethereum Signature Database](https://www.4byte.directory/)
+- [Eveem.org Decompiler](https://eveem.org/)
+- [Dune Analytics](https://dune.xyz/home)
+- [Security Tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
+
 ## Audit reports
 
 - [Trail of Bits](https://github.com/trailofbits/publications)
