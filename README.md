@@ -39,7 +39,7 @@
 ## Incidents
 
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
-- [Blocksec Incidents](https://github.com/openblocksec/blocksec-incidents)
+- [Blocksec Incidents](https://github.com/m4xx101/blocksec-incidents)
 
 ## Tools
 
