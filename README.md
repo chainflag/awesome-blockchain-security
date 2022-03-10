@@ -35,6 +35,7 @@
 - [Bitcoin CVE wiki](https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures)
 - [Bitcoin CVE list](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=bitcoin)
 - [Bitcoin Weaknesses](https://en.bitcoin.it/wiki/Weaknesses)
+- [Ethereum Foundation Vulnerability Disclosures](https://github.com/ethereum/public-disclosures/)
 
 ## Incidents
 
@@ -49,6 +50,9 @@
 - [Eveem.org Decompiler](https://eveem.org/)
 - [Dune Analytics](https://dune.xyz/home)
 - [Security Tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
+- [Bloxy](https://bloxy.info/)
+- [Tenderly](https://dashboard.tenderly.co/)
+- [Tutela](https://tutela.xyz/#about)
 
 ## Audit reports
 
