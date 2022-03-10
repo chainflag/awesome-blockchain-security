@@ -52,7 +52,7 @@
 - [Security Tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
 - [Bloxy](https://bloxy.info/)
 - [Tenderly](https://dashboard.tenderly.co/)
-- [Tutela](https://tutela.xyz/#about)
+- [Tutela](https://tutela.xyz/)
 
 ## Audit reports
 
