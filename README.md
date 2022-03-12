@@ -11,6 +11,7 @@
 - [Emin Gün Sirer](https://hackingdistributed.com/)
 - [Phil Does Security](https://pdaian.com/blog/)
 - [samczsun](https://samczsun.com/)
+- [cmichel](https://cmichel.io/  )
 
 ## CTFs
 
@@ -20,6 +21,7 @@
 - [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Paradigm CTF - 2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
+- [Defihack](https://www.defihack.xyz/)
  
 ## Solidity Security References
 
@@ -49,7 +51,7 @@
 - [Ethereum Signature Database](https://www.4byte.directory/)
 - [Eveem.org Decompiler](https://eveem.org/)
 - [Dune Analytics](https://dune.xyz/home)
-- [Security Tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
+- [Security Tools](https://consensys.github.io/smart-contract-best-practices/security-tools/)
 - [Bloxy](https://bloxy.info/)
 - [Tenderly](https://dashboard.tenderly.co/)
 - [Tutela](https://tutela.xyz/)
@@ -75,6 +77,7 @@
 - [ETHEREUM Bounty Program](https://bounty.ethereum.org/)
 - [Immunefi](https://immunefi.com/)
 - [SlowMist Zone](https://www.slowmist.io/)
+- [Code4rena](https://code4rena.com/)
 
 ### Bug Bounty in Hackerone
 
