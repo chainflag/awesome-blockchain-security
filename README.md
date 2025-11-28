@@ -55,6 +55,7 @@
 - [Bloxy](https://bloxy.info/)
 - [Tenderly](https://dashboard.tenderly.co/)
 - [Tutela](https://tutela.xyz/)
+- [Trident](https://github.com/Ackee-Blockchain/trident)
 
 ## Audit reports
 
